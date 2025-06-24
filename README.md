@@ -1,6 +1,6 @@
 ### **Charlotte App – Event Discovery Prototype**  
 **Project Status**: Prototype (Figma) | **Tech Stack**: UX/UI Design  
-**Repo**: [Figma Prototype](https://www.figma.com/design/1EBSEC41v5ta2Pf2UpdE1s/Charlotte-App--Final-Project-for-ITIS-3130?node-id=0-1&t=4TG5mOQamQeX4VD0-1)  
+**Repo**: [Figma Prototype](https://www.figma.com/proto/1EBSEC41v5ta2Pf2UpdE1s/Charlotte-App--Final-Project-for-ITIS-3130?node-id=18-148&p=f&t=jLuglJw8WeDzY2sM-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=18%3A148)  
 
 #### **Problem Statement**  
 Charlotte lacks a centralized platform for discovering local events (concerts, markets, etc.), forcing residents to rely on scattered social media posts that lack reminders and organization.  
